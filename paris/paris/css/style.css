@@ -62,7 +62,7 @@ div {
     overflow: hidden;
 }
 a{
-    color: #008000; /* Цвет обычной ссылки */
+    /*color: #008000; /* Цвет обычной ссылки */
     text-decoration: none; /* Убираем подчеркивание у ссылок */
 }
 a:visited {
@@ -91,4 +91,19 @@ n{
 span{
     float: left;
 
+}
+.photos .col-md-3, .zapros .col-md-3{
+    margin: 0;
+    vertical-align: top;
+}
+#blok1 p {
+    margin: 2em 0;
+}
+#blok1 #suggested-pictures {
+    margin: 3em 0;
+}
+img.big-preview {
+    margin: -1em 0 0 -1em;
+    width: 150px;
+    height: 100px;
 }
