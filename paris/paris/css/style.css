@@ -1,0 +1,94 @@
+.main{
+    font-family: arial,sans-serif;
+    font-size: 15px;
+    display: block;
+    margin: 10px;
+    overflow: auto;
+    position: absolute;
+}
+#blok1 {
+     float: left;
+     display: block;
+     width: 700px;
+     margin: 2px;
+    text-align:left ;
+    padding-right: 60px;
+
+ }
+text{
+
+    font-weight:500;
+}
+#blok2 {
+    float: left;
+    width: 600px;
+    box-shadow: 0 0 2px;
+    margin: 2px;
+    height:1200;
+
+}
+.parisStolica.osnovnayaInfa.Colleagues.pamyatki.zagolovok1.zapros{
+    padding-left: 10px ;
+}
+b1{
+    font-size: 30px;
+}
+b2{
+    font-size: 13px;
+    color: #555555;
+}
+b1.b2{
+    font-family: arial,sans-serif;
+}
+.head{
+    width: 500px;
+    height: 90px;
+}
+.col-md-3 img{
+    display:inline-block;
+}
+div {
+    border: 1px solid #fff;
+    margin:10px;
+    display:inline-block;
+}
+.photos{
+    overflow: hidden;
+}
+
+#main{
+    width: 1119px;
+    height: 150px;
+    overflow: hidden;
+}
+a{
+    color: #008000; /* Цвет обычной ссылки */
+    text-decoration: none; /* Убираем подчеркивание у ссылок */
+}
+a:visited {
+    color: #800080; /* Цвет посещённой ссылки */
+}
+a:hover {
+
+    text-decoration: underline; /* Добавляем подчеркивание */
+}
+t{
+    color: green;
+}
+g{
+    font-weight: bold;
+}
+m{
+    font-size:21px;
+}
+n{
+  font-size: large;
+    color: #555555;
+}
+.head{
+    float: left;
+}
+span{
+    float: left;
+
+}
